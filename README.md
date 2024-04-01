@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails + Three.js base configuration
 
-Things you may want to cover:
+## Requirements
 
-* Ruby version
+* Ruby v3.2.2+
+* Rails v7.1.3+
 
-* System dependencies
+## Install
 
-* Configuration
+* bundle install
+* rails db:migrate (Windows only)
 
-* Database creation
+## Run for development
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* rails server
